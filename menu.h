@@ -1,0 +1,1 @@
+void menu(int* vetor, int tamanho);
